@@ -1,4 +1,15 @@
 body {
   font-family: 'Poppins', sans-serif;
-  background: linear-gradient(45deg, #FFCDA2 32%, #FFAF68 68%);
+  // background: linear-gradient(45deg, #FFCDA2 32%, #FFAF68 68%);
+  background: linear-gradient(204.21deg, #FFCDA2 38.6%, #FFAF68 60.93%);
+  max-width: 1800px;
+  margin: auto;
+}
+a, button{
+  text-decoration: none;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
 }
